@@ -1,8 +1,8 @@
-# End_To_End_ML_Multi_Step_Time_Series
+# End_To_End_ML_Advanced_Multi_Step_Time_Series
 ### Project Scructure
 
 ```
-multi_step_time_series/
+advanced_multi_step_time_series/
 ├─ data/
 │  ├─ raw/
 ├─ images/
